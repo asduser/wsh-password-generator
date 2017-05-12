@@ -37,3 +37,10 @@ Result file with each new password will be located in `result.txt` file.<br/>
 </table>
 
 To start just launch `application.bat`.
+
+
+## Licence
+
+MIT License
+
+Copyright (c) 2017 [asduser](https://github.com/asduser)
